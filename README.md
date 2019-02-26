@@ -26,7 +26,7 @@ The csv columns include all comments of each ticket, i.e. the full "thread", and
 * Original ticket channel (web, email etc)
 * All tags, separated by `|`
 
-Note this is not meant to be a complete, configurable, all-purpose Zendesk export utility. It did it's specific job for us at [Filmhub](https://filmhub.com), and at best I'm hoping this to be some useful snippets on how to use the Zendesk API and Zendesk Ruby gem.
+Note this is not meant to be a complete, configurable, all-purpose Zendesk export utility. It did its specific job for us at [Filmhub](https://filmhub.com), and at best I'm hoping this to be some useful snippets on how to use the Zendesk API and Zendesk Ruby gem.
 
 ## Installation
 
